@@ -103,7 +103,7 @@ GenerateClassCluster=0
 DocumentUniqueId=MFHWHNTI
 
 [Document4]
-DocumentPath=PcbLib1.PcbLib
+DocumentPath=Connectors.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
