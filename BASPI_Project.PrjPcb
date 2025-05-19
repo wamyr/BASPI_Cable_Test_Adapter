@@ -153,6 +153,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AANWGZCY
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for BASPI_Project\Design Rule Check - PCB_draft.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
