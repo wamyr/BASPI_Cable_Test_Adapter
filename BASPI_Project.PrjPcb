@@ -137,10 +137,14 @@ GenerateClassCluster=0
 DocumentUniqueId=MFHWHNTI
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for BASPI_Project\Design Rule Check - PCB_draft.html
+DocumentPath=Project Outputs for BASPI_Project\Design Rule Check - PCB_Cable_Test_Adapter.html
 DItemRevisionGUID=
 
 [GeneratedDocument2]
+DocumentPath=Project Outputs for BASPI_Project\Design Rule Check - PCB_draft.html
+DItemRevisionGUID=
+
+[GeneratedDocument3]
 DocumentPath=Project Outputs for BASPI_Project\Design Rule Check - PCB_version_1.html
 DItemRevisionGUID=
 
